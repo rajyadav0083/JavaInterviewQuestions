@@ -3,6 +3,7 @@ package Programs;
 import java.util.Arrays;
 
 public class SecondHighestAndSmallest {
+    private int;
     public static void main(String[] args) {
         int[] arr = {12, 5, 8, 19, 3, 5, 7};
 
